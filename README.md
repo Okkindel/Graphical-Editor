@@ -7,5 +7,6 @@ Features:
 
 - figures types: rectangle, polygon, oval
 - drawing, editing, scaling, moving coloring figures
+- undo, removing figures
 - loading/saving to file
 - exporting to PNG
