@@ -3,7 +3,7 @@ Simple graphical editor created in java. Something like a paint - allows you to 
 
 ![screenshot](https://github.com/okkindel/graphical-editor/blob/master/screen.png?raw=true)
 
-Features:
+# Features:
 
 - figures types: rectangle, polygon, oval
 - drawing, editing, scaling, moving coloring figures
